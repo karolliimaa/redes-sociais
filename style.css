@@ -46,4 +46,13 @@ nav a:hover {
     transition: transform 0.1s;
 }
 
-fo
+footer{
+    display: flex;
+    align-items: center
+    justify-content: center;
+    background-color: var(--primay-color);
+    color: var(--bg-color);
+    width: 100%;
+    heigth:3rem;
+    margin-top:2rem;
+}
